@@ -1,2 +1,2 @@
-# llama.rs
-LLMA.c -> Rust
+# LLaMa.rs
+LLaMa.c -> Rust
